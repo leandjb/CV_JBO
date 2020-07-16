@@ -11,7 +11,7 @@ Es una plantilla responsiva del CV - Curriculum Vitae de Leandro Barros - [xrile
 
 - **Leandro Barros** - _Trabajo Inicial_ - [leandjb](https://github.com/leandjb)
 
-## Licencia 📄
+## Licencia
 
 Este proyecto está bajo la Licencia GPLv3 - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 

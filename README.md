@@ -1,6 +1,6 @@
 # CV_Barros
 
-Es una plantilla responsiva del CV - Curriculum Vitae de Leandro Barros - [xriley](https://github.com/xriley)
+Es una plantilla responsiva del CV - Curriculum Vitae de Leandro Barros - [leandjb](https://github.com/xriley)
 
 ## Desarrollo
 
@@ -9,11 +9,11 @@ Es una plantilla responsiva del CV - Curriculum Vitae de Leandro Barros - [xrile
 
 ## Autor
 
-- **Leandro Barros** - _Trabajo Inicial_ - [leandjb](https://github.com/leandjb)
+- **Leandro Barros** - _Diseño y desarrollo_ - [leandjb](https://github.com/leandjb)
 
 ## Licencia
 
-Este proyecto está bajo la Licencia GPLv3 - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia GPLv3 contenido en el fichero [LICENSE](LICENSE) para detalles
 
 ## Créditos
 

@@ -1,12 +1,24 @@
-## Plantilla de CV - Curriculum Vitae
+# CV_Barros
 
-## Autor [Leandro Barros - leandjb]
+Es una plantilla responsiva del CV - Curriculum Vitae de Leandro Barros - [xriley](https://github.com/xriley)
 
-Es una plantilla elaborada con Bootstrap basada en tendencias de diseño UX/UI.
+## Desarrollo
 
-## Creditos
+- [Boostrap 4](https://getbootstrap.com/) - Framework CSS implementado.
+- [FontAwesome](https://fontawesome.com/6?next=%2F%3Ffrom%3Dio) - Fuente de la plantilla.
 
-Un agradecimiento a Xiaoying Riley y la comunidad de desarrolladores web por sus aportes para consolidar este proyecto.
+## Autor
 
-- [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
-- [Bootstrap](http://getbootstrap.com/)
+- **Leandro Barros** - _Trabajo Inicial_ - [leandjb](https://github.com/leandjb)
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia GPLv3 - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
+## Créditos
+
+Agradecimientos a Xiaoying Riley - [xriley](https://github.com/xriley) y la comunidad de desarrolladores de Boostrap, CSS y JS.
+
+---
+
+Creado con ❤️ por [leandjb](https://github.com/leandjb)

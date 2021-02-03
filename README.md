@@ -1,6 +1,6 @@
 # CV_Barros
 
-Es una plantilla responsiva del CV - Curriculum Vitae de Leandro Barros - [leandjb](https://github.com/xriley)
+Es una plantilla responsiva del CV - Curriculum Vitae de Jose Barros - 
 
 ## Desarrollo
 
@@ -17,7 +17,7 @@ Este proyecto está bajo la Licencia GPLv3 contenido en el fichero [LICENSE](LIC
 
 ## Créditos
 
-Agradecimientos a Xiaoying Riley - [xriley](https://github.com/xriley) y la comunidad de desarrolladores de Boostrap, CSS y JS.
+Agradecimientos a Leandro Barros - [leandjb](https://github.com/leandjb) y Xiaoying Riley - [xriley](https://github.com/xriley) y la comunidad de desarrolladores de Boostrap, CSS y JS.
 
 ---
 
